@@ -4,7 +4,7 @@
 
 **Automated Linux Repository Indexer & AUR Engine**
 
-![Version](https://img.shields.io/badge/Version-0.0.9-orange?style=for-the-badge)
+
 ![License](https://img.shields.io/badge/License-GPL_v3-blue?style=for-the-badge&logo=gnu&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
