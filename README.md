@@ -22,13 +22,13 @@ Created by [Neuwj](https://github.com/Neuwj-00)
 
 ---
 
-## 📋 Overview
+## Overview
 
 **repoForge** is a high-performance terminal utility engineered in C++ to streamline the management of Linux package repositories and automate the Arch User Repository (AUR) workflow. It enables developers to generate complex repository architectures and prepare packages for deployment within seconds.
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 * **Repository Skeleton** — Automatically constructs the essential directory hierarchy (`pool`, `dists`, `keys`) for both APT and RPM repositories.
 * **Scanning & Indexing** — Efficiently scans Debian packages to generate and update `Packages.gz` index files.
@@ -38,7 +38,7 @@ Created by [Neuwj](https://github.com/Neuwj-00)
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### Debian / Ubuntu / MX Linux
 
@@ -80,7 +80,7 @@ g++ -std=c++17 -O2 -o repoforge repoForge.cpp
 sudo install -Dm755 repoforge /usr/bin/repoforge
 
 ```
-🛠️ Usage
+ Usage
 After launching the utility, navigate the interactive menu to manage your repository:
 
 Create Repo Skeleton: Initializes the repository root and subdirectory structure.
