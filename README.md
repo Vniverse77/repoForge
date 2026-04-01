@@ -40,7 +40,7 @@ Created by [Neuwj](https://github.com/Neuwj-00)
 
 ##  Installation
 
-### Debian / Ubuntu / MX Linux
+### Debian / Ubuntu
 
 ```bash
 # Add the GPG key for secure package verification
